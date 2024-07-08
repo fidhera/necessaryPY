@@ -3,7 +3,7 @@
 
 ![](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 
-*If you want to practice Python, but don't know what to work on, this list of projects will give you a hand. From a beginner to more advanced levels, each project has the code and the description needed for you to practice your skills.*
+*program dibuat untuk mempermudah dan menjadikan aktifitas lebih efisien.*
 
 <!--
 ## 📚 Beginner
