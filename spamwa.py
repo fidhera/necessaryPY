@@ -1,4 +1,4 @@
-# Program Spam Chatttttttttttttttttttttttttttttt
+# Program Spam Chattttttttttttttttttttttttttttt
 import pyautogui as pt
 import time
 
