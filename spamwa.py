@@ -1,3 +1,4 @@
+# Program Spam Chat
 import pyautogui as pt
 import time
 
