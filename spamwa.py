@@ -8,9 +8,7 @@ time.sleep(5)
 
 while i < int(limit):
     pt.typewrite(message)
-    # the messages are written when - 
-    # the cursor is placed  
-
+    # pesan ditulis ketika cursor berada di box input
     pt.press("enter")
 
     i+=1
