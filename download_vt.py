@@ -1,4 +1,4 @@
-# Program mendownload Vidio Tiktok (VT) dengan menginput linkkkkkkk
+# Program mendownload Vidio Tiktok (VT) dengan menginput linkkkkkk
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
