@@ -1,4 +1,4 @@
-#program untuk convert celcius ke fahrenheitttttttttttttttt
+#program untuk convert celcius ke fahrenheittttttttttttttt
 
 #pertama input suhu Celcius
 celcius = int(input("Celcius= "))
