@@ -1,4 +1,4 @@
-#program game tebak angka randommmmmmmmmm
+#program game tebak angka randommmmmmmmm
 import random
 
 print("Hai, selamat datang di permainan Tebak Angka!")
